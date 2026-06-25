@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "nombre": "Laptop Pro",
+      "precio": 1200.00,
+      "cantidad": 1
+    },
+    {
+      "nombre": "Mouse Inalámbrico",
+      "precio": 25.50,
+      "cantidad": 2
+    }
+  ],
+  "total": 1251.00
+}
