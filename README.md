@@ -19,6 +19,6 @@ Contiene las 6 funciones núcleo del sistema:
 Conjunto de pruebas automatizadas con `pytest` que evalúan el comportamiento correcto de la lógica de negocio frente a flujos idóneos, entradas corruptas, estructuras vacías y colisiones en límites de índices.
 
 ## Cómo ejecutar las pruebas
-Asegúrate de tener instalado `pytest`. En tu terminal ejecuta de la siguiente manera:
+Asegúrate de tener instalado el modulo `pytest`. En tu terminal ejecuta de la siguiente manera:
 ```bash
 pytest test_carrito_pro.py
